@@ -10,25 +10,36 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+     Good visualization: https://public.tableau.com/app/profile/fathima.shanavas/viz/CRMSalesDashboard_17405967603400/SalesDashboard
+     I have categorized the lower part of this visualization as effective (screenshot attached to the pull request). The illustration features a clean layout with well-structured data sections, making it easy to read. Key statistics are prominently displayed at the top, allowing the audience to quickly grasp the overall pipeline performance.
+     
+     Bar charts and proportional bars are used effectively to represent values, making comparisons straightforward. The use of color distinction (e.g., orange for won deals and major contributors) highlights critical data points, aiding quick decision-making.
+     
+     The dashboard is thoughtfully divided into meaningful sections, including Stage Wise, Product Wise, and Sector Wise, enabling deeper analysis. The Stage Wise section illustrates the distribution of deals across different pipeline stages, revealing where opportunities are concentrated. Meanwhile, the Product Wise and Sector Wise breakdowns provide insights into revenue contributions by various products and industries.
+     
+     Despite presenting a large amount of information and numerical data, the visualization remains uncluttered, maintaining clarity and readability.
 
-
-
-
-
+     Bad visualization: https://datavizproject.com/data-type/pie-chart/
+     The illustration is eye catching but doesn’t convey any information. It lacks clear data representation, making it difficult to interpret. While the image resembles a pie chart, it is missing essential elements such as labels or a legend to explain what each section represents. The illustrations depict various aspects of a person’s life, but their meanings are left open to interpretation. For instance, the image of a woman hugging a man could represent social interaction or family time, making it ambiguous.
+     
+     Although the illustration adopts a circular pie chart format, it does not follow best practices for this type of visualization. Effective pie charts use clearly defined sections with numerical proportions to illustrate relationships between categories. In this case, the divisions appear inconsistent, with no indication of their relative significance or size.
+     
+     A strong data visualization should enable viewers to draw conclusions, recognize trends, or make informed decisions. This illustration, however, lacks a clear message or any actionable insights. Without a structured, data-driven narrative, it does not serve as an effective analytical tool.
 
 
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+     One of the biggest issues with this visualization is the absence of labels and a missing legend. Each section represents a different aspect of a person’s life, but without proper labeling, the intended message is unclear. Adding a legend at the side or bottom of the image would help clarify the meaning of colors and categories, making the visualization more informative.
+     
+     Another way to enhance the image is by incorporating interactivity. For example, allowing users to hover over a section could display additional details, such as the name of the activity or the percentage of time spent on it. This approach would provide more context without cluttering the visual.
+     
+     A strong data visualization quantifies the information it presents. Including numerical values or percentages for each section would make the representation more data-driven. For instance, if "work" accounts for 40% of a person’s day, displaying that percentage inside or near the segment would help viewers quickly understand the relative importance of each category.
+     
+     While the current color scheme differentiates the sections, it lacks a logical structure. A more intuitive palette—such as warm colors for active tasks (work, socializing) and cool colors for passive activities (reading, watching TV, sleeping)—would improve both visual appeal and comprehension. A well-planned color scheme enhances readability and ensures that key insights stand out.
+     
+     Additionally, the image lacks a clear title or context explaining what it represents. A simple title like “Day in a life of Coporate employee”  would immediately set expectations for the viewer. Including a brief description or caption at the bottom would further clarify the visualization’s purpose and make it more effective in conveying its message.
 
-
-
-
-
-
-      
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
