@@ -11,7 +11,7 @@
 > What software did you use to create your data visualization?
 I used Python with Matplotlib to create the bar chart. 
 > Who is your intended audience? 
-The intended audience for this graph will be Education authorities and public health officials who are monitoring the trend to see the distribution of Covid-19 cases in schools in Milton to make decisions regarding interventions in schoos. This graph will also be useful general public(esp parents of the students in these schools) to understand Covid-19 cases data in Milton area.
+The intended audience for this graph will be Education authorities and public health officials who are monitoring the trend to see the distribution of Covid-19 cases in schools in Milton to make decisions regarding interventions in schools. This graph will also be useful general public(esp parents of the students in these schools) to understand Covid-19 cases data in Milton area.
 > What information or message are you trying to convey with your visualization? 
 The goal is to communicate the distribution of COVID-19 cases among various schools in Milton, showcasing the percentage of total cases at each school. This visualization helps the viewer quickly understand which schools are most impacted by COVID-19, potentially guiding policy decisions and interventions.
 > What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots? 
@@ -32,7 +32,7 @@ I wanted make a comparision of outbreaks in different schools. The data set is t
 I cleaned the raw data to extract meaningful insights, such as calculating the sum of cases and percentages per school. Additionally, I refined the graph for better readability, which involved some trial and error. I also thoroughly explored the data to filter it specifically for schools in Milton. 
 ## Visualization 2: Trendline for Covid-19 cases in all municipalities 
 > What software did you use to create your data visualization?
-I used PowerBi to make this visualization. I imported the csv file into Power Bi and designed this graph
+I used PowerBI to make this visualization. I imported the csv file into Power Bi and designed this graph
 > Who is your intended audience? 
 The intended audience will be public health officals & policy makers in Ontario who are monitoring the trend in Covid-19 cases in schools. This is also an insightful graph for families which have children going to schools during the pandemic    
 > What information or message are you trying to convey with your visualization? 
